@@ -12,7 +12,7 @@ public class main
 
     public static void main(String[] args)
     {
-        readFile("text.txt");
+        readFile("test.txt");
     }
 
     public static void readFile(String file)
