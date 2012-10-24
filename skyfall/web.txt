@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+<title>Search Java Tutorials</title>
+<style type="text/css">
+#javasefooterfixed {
+    position: fixed;
+    bottom: 10px;
+    right: 7px;
+    left: 7px;
+    text-align:center;
+} 
+</style>  
+</head>
+<body>
+<h1>The Java&trade; Tutorials<img src="images/dukesign.GIF" width="130" height="104" align="right" border="0" alt="Duke holding a sign" /></h1>
+<p><img src="images/shoeline2.GIF" alt="path of footprints" /> 
+	<img src="images/shoeline2.GIF" alt="path of footprints" /></p>
+<!-- Begin Page Data -->
+	
+<script type="text/javascript" src="http://docs.oracle.com/javase/webdesign/other/js/search.js"></script>
+<noscript> 
+A browser with JavaScript enabled is required for this page to operate properly.
+</noscript>
+<form id="searchForm" onsubmit="return submitTutorialSearch()" >
+    <input type="hidden" name="search_p_main_operator" value="all" />
+    <input type="hidden" name="group" value="Documentation" />
+    <input type="hidden" name="q" value="" id="keywordreal"/>
+    <label for="searchField">Search the online tutorial:&nbsp;<input type="text" id="searchField"  value="Enter text" onclick="this.value='';" /></label>
+    <input type="submit" class="buttonred" value=" &#187; " />
+</form>
+		<img src="images/shoeline2.GIF" alt="path of footprints" />
+		
+		<a class="APILink" target="_blank" href="http://docs.oracle.com/javase/7/docs/api/java/util/regex/package-summary.html"><code>java.util.regex</code></a></code> API for pattern matching with regular expressions. Although the syntax accepted by this package is similar to the 
+<a class="OutsideLink" target="_blank" href="http://www.perl.com">Perl</a> programming language, knowledge of Perl is not a prerequisite. This lesson starts with the basics, and gradually builds to cover more advanced techniques.</p>
+<dl>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="intro.html">Introduction</a></dt>
+<dd>Provides a general overview of regular expressions. It also introduces the core classes that comprise this API.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="test_harness.html">Test Harness</a></dt>
+<dd>Defines a simple application for testing pattern matching with regular expressions.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="literals.html">String Literals</a></dt>
+<dd>Introduces basic pattern matching, metacharacters, and quoting.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="char_classes.html">Character Classes</a></dt>
+<dd>Describes simple character classes, negation, ranges, unions, intersections, and subtraction.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="pre_char_classes.html">Predefined Character Classes</a></dt>
+<dd>Describes the basic predefined character classes for whitespace, word, and digit characters.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="quant.html">Quantifiers</a></dt>
+<dd>Explains greedy, reluctant, and possessive quantifiers for matching a specified expression <i>x</i> number of times.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="groups.html">Capturing Groups</a></dt>
+<dd>Explains how to treat multiple characters as a single unit.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="bounds.html">Boundary Matchers</a></dt>
+<dd>Describes line, word, and input boundaries.</dd>
+<dt style="font-weight: bold">
+<img src="images/shoeline2.GIF" alt="path of footprints" />
+<a class="TutorialLink" target="_top" href="pattern.html">Methods of the Pattern Class</a></dt>
+<dd>Examines other useful methods of the <code>Pattern</code> class, and explores advanced features such as compiling with flags and using embedded flag expressions.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="matcher.html">Methods of the Matcher Class</a></dt>
+<dd>Describes the commonly-used methods of the <code>Matcher</code> class.</dd>
+<dt style="font-weight: bold">
+<a class="TutorialLink" target="_top" href="pse.html">Methods of the PatternSyntaxException Class</a></dt>
+<dd>Describes how to examine a <code>PatternSyntaxException</code>.</dd>
+<dt style="font-weight: bold">
+<img src="images/shoeline2.GIF" alt="path of footprints" />
+<a class="TutorialLink" target="_top" href="resources.html">Additional Resources</a></dt>
+<dd>To read more about regular expressions, consult this section for additional resources.</dd>
+</dl>
+<img src="images/shoeline2.GIF" alt="path of footprints" />
+<!-- End Page Data -->
+
+<div id="javasefooterfixed">
+<hr />
+<p>All of the material in <a href="index.html">The Java Tutorials</a> is copyright-protected and may not be published in other works without express written permission from Oracle Corporation.</p>
+</div>
+
+<!-- Start SiteCatalyst code   -->
+<script type="text/javascript" language="JavaScript" src="http://www.oracle.com/ocom/groups/systemobject/@mktg_admin/documents/systemobject/s_code_download.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.oracle.com/ocom/groups/systemobject/@mktg_admin/documents/systemobject/s_code.js"></script>
+<noscript>
+A browser with JavaScript enabled is required for this page to operate properly.
+</noscript>
+
+<!-- ********** DO NOT ALTER ANYTHING BELOW THIS LINE ! *********** -->
+<!--  Below code will send the info to Omniture server -->
+<script type="text/javascript" language="javascript">var s_code=s.t();if(s_code)document.write(s_code)</script>
+
+<!-- End SiteCatalyst code -->
+</body>
+</html>
+
