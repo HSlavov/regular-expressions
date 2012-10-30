@@ -9,7 +9,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 import java.io.FileNotFoundException;
-import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -93,10 +92,7 @@ public class FileHtmlParser extends HtmlParser
         {
             name = new HtmlTag(matcher.group(1), matcher.group(2));
             System.out.println("Name= " + matcher.group(1) + "  " + "Value= " + matcher.group(2));
-            String str = matcher.group();
-            
 
-            
             FileWriter fw = new FileWriter("EndResult.txt", true);
             BufferedWriter bw = new BufferedWriter(fw);
             bw.write("Name= " + matcher.group(1) + "  " + "Value= " + matcher.group(2));

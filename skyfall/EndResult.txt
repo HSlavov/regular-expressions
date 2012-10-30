@@ -5,3 +5,10 @@ Name= images/shoeline2.GIF  Value= path of footprints
 Name= images/shoeline2.GIF  Value= path of footprints
 Name= images/shoeline2.GIF  Value= path of footprints
 Name= images/shoeline2.GIF  Value= path of footprints
+Name= images/dukesign.GIF  Value= Duke holding a sign
+Name= images/shoeline2.GIF  Value= path of footprints
+Name= images/shoeline2.GIF  Value= path of footprints
+Name= images/shoeline2.GIF  Value= path of footprints
+Name= images/shoeline2.GIF  Value= path of footprints
+Name= images/shoeline2.GIF  Value= path of footprints
+Name= images/shoeline2.GIF  Value= path of footprints
