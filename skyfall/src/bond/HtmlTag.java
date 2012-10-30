@@ -5,6 +5,17 @@ public class HtmlTag
     private String tagName;
     private String value;
 
+    public HtmlTag(String name, String value)
+    {
+        settagName(name);
+        setvalue(value);
+    }
+
+    public HtmlTag()
+    {
+        this(null, null);
+    }
+
     public void settagName(String a)
     {
         if (a != null)
@@ -29,17 +40,6 @@ public class HtmlTag
     public String getvalue()
     {
         return value;
-    }
-
-    public HtmlTag()
-    {
-        this(null, null);
-    }
-
-    public HtmlTag(String a, String b)
-    {
-        settagName(a);
-        setvalue(b);
     }
 
 }
